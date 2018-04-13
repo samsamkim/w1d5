@@ -1,0 +1,17 @@
+{
+  "name": "activity1",
+  "version": "1.0.0",
+  "description": "exercise1",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "hello",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.2"
+  }
+}
